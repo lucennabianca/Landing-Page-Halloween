@@ -1,6 +1,7 @@
-<h1>Lading Page Hallowen</h1>
+<h1 align="center">Lading Page Hallowen</h1>
 
-<h3>Projeto que aprendi no DevCLub utilizando HTML e CSS</h3>
+<h3 align="center">Projeto que aprendi no DevCLub utilizando HTML e CSS</h3>
 
-<img src="https://github.com/lucennabianca/Landing-Page-Halloween/blob/main/IMG/tela-pc.jpg">
-  
+<br>
+
+<img  src="https://github.com/lucennabianca/Landing-Page-Halloween/blob/main/IMG/tela-pc.jpg" width="540px" align="center"> <img src="https://github.com/lucennabianca/Landing-Page-Halloween/blob/main/IMG/tela-cel.png" width="100px" align="center"> 
